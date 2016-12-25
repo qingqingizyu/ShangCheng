@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorPrimary">#ff000000</color>
+    <color name="colorPrimaryDark">#e2e2e2</color>
+    <color name="colorAccent">#b2b2b2</color>
+    <color name="c3">#ffffffff</color>
+    <color name="c_b0000000">#b0000000</color>
+    <color name="c_3c3c3c">#ff3c3c3c</color>
+    <color name="ac">#ACACAC</color>
+    <color name="c2">#ff333333</color>
+    <color name="c6">#ff999999</color>
+    <color name="c_000000">#ff000000</color>
+    <color name="c7">#ffbbbbbb</color>
+    <color name="c_00000000">#00000000</color>
+    <color name="c5">#ff666666</color>
+    <color name="c9">#ffd9d9d9</color>
+    <color name="c_333333">#ff333333</color>
+    <color name="f2">#f2f2f2</color>
+    <color name="e2">#e2e2e2e2</color>
+    <color name="c19">#ffffc407</color>
+    <color name="c4">#fff2f2f2</color>
+    <color name="c11">#ffe2e2e2</color>
+    <color name="c12">#bc000000</color>
+
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="c_c4c4c4">#ffc4c4c4</color>
+    <color name="c21">#ffee7e33</color>
+    <color name="c_6b6b6b">#ff6b6b6b</color>
+    <color name="c_60000000">#60000000</color>
+    <color name="c16">#fff7f7f7</color>
+    <color name="textColor_gray">#cccccc</color>
+
+
+</resources>

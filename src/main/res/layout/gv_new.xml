@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <include layout="@layout/u_template_top_brands"/>
+
+    <ImageView
+        android:id="@+id/iv_new_over"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <com.example.chenjunmei.myfashion.view.ReboundHorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+        <LinearLayout
+            android:id="@+id/bannerViewPage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="10.0dip"
+            android:visibility="gone"/>
+
+    </com.example.chenjunmei.myfashion.view.ReboundHorizontalScrollView>
+</LinearLayout>
